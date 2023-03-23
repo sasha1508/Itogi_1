@@ -1,0 +1,15 @@
+/home/sasha/Рабочий стол/Итоги 1/Program/bin/Debug/net6.0/Program
+/home/sasha/Рабочий стол/Итоги 1/Program/bin/Debug/net6.0/Program.deps.json
+/home/sasha/Рабочий стол/Итоги 1/Program/bin/Debug/net6.0/Program.runtimeconfig.json
+/home/sasha/Рабочий стол/Итоги 1/Program/bin/Debug/net6.0/Program.dll
+/home/sasha/Рабочий стол/Итоги 1/Program/bin/Debug/net6.0/ref/Program.dll
+/home/sasha/Рабочий стол/Итоги 1/Program/bin/Debug/net6.0/Program.pdb
+/home/sasha/Рабочий стол/Итоги 1/Program/obj/Debug/net6.0/Program.csproj.AssemblyReference.cache
+/home/sasha/Рабочий стол/Итоги 1/Program/obj/Debug/net6.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/sasha/Рабочий стол/Итоги 1/Program/obj/Debug/net6.0/Program.AssemblyInfoInputs.cache
+/home/sasha/Рабочий стол/Итоги 1/Program/obj/Debug/net6.0/Program.AssemblyInfo.cs
+/home/sasha/Рабочий стол/Итоги 1/Program/obj/Debug/net6.0/Program.csproj.CoreCompileInputs.cache
+/home/sasha/Рабочий стол/Итоги 1/Program/obj/Debug/net6.0/Program.dll
+/home/sasha/Рабочий стол/Итоги 1/Program/obj/Debug/net6.0/ref/Program.dll
+/home/sasha/Рабочий стол/Итоги 1/Program/obj/Debug/net6.0/Program.pdb
+/home/sasha/Рабочий стол/Итоги 1/Program/obj/Debug/net6.0/Program.genruntimeconfig.cache
